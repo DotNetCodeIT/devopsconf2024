@@ -54,7 +54,7 @@ Session start at2024-05-10 12:15
 [**Go to session**](session/room2_12_15/README.md)
 
 
-## Attento c'è un secret nel tuo repository!
+## Hype Sul Platform Engineering? Approfondiamo Perché Kubernetes È La Piattaforma Che Stai Cercando
 **Room:** Rome Room 1
 
 Session start at2024-05-10 14:00
@@ -110,7 +110,7 @@ Session start at2024-05-10 16:30
 [**Go to session**](session/room1_16_30/README.md)
 
 
-## Hype Sul Platform Engineering? Approfondiamo Perché Kubernetes È La Piattaforma Che Stai Cercando
+## Attento c'è un secret nel tuo repository!
 **Room:** Rome Room 2
 
 Session start at2024-05-10 16:30
